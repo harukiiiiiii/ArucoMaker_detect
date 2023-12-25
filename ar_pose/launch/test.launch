@@ -1,0 +1,3 @@
+<launch>
+<node name="liner" pkg="ar_pose" type="liner_pub.py" output ="screen"/>
+</launch>
